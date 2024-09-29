@@ -54,7 +54,6 @@ and the Quantity sold By
 
 
 # Conclusion :
-Conclusion
 Between January and June, the business experienced remarkable growth, with total revenue increasing by 100%. This impressive performance was driven by the significant contributions from three key branches:
 
 Astoria branch: 33.23% of total revenue
