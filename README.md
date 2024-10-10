@@ -50,8 +50,8 @@
  - in February the Revenue decreased by 6.74%
 and the Quantity sold By 5.24%
 
- # Dashboard Overiew 
- 
+## Dashboard Overview 
+#### open the image files 
 
 #
 # Conclusion :
