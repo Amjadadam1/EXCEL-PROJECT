@@ -47,12 +47,13 @@
 ```
  - the Sales spikes at the 5th day of every month.
  - The Coffe Products Represent more the 55 % of the total revenue. 
- - in February the Revenue decreased by 
-and the Quantity sold By 
+ - in February the Revenue decreased by 6.74%
+and the Quantity sold By 5.24%
 
- #
+ # Dashboard Overiew 
+ 
 
-
+#
 # Conclusion :
 Between January and June, the business experienced remarkable growth, with total revenue increasing by 100%. This impressive performance was driven by the significant contributions from three key branches:
 
